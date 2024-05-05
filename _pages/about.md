@@ -10,36 +10,29 @@ redirect_from:
 
 
 
-![GIF of a computer](/images/computer.gif){: .align-right width="300px"}
-👨🏻‍💻 I'm a penultimate year undergraduate student majoring in Computer Science.
+![GIF of a computer](/images/computer.gif){: .align-right width="200px"}
+👨🏻‍💻 I'm a penultimate year undergraduate majoring in Computer Science.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+🔬 Pursuing academic interdisciplinary research at the intersection of machine learning.
 
-📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
+📚 My interests include deep learning, computer vision, automation, robotics and geospatial data analysis.
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+💻 I'm currently working on projects [xGrip 🦾](https://github.com/surtecha/xGrip) and [CartoSage 🌏](https://github.com/surtecha/CartoSage)
 
 # Selected Experience
 
-## 🤖 Open Source Contributions
-I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
+## 📜 Research
+As a **Student Researcher**, I have gained significant experience in academic research, including the development of a novel method for identifying optimal growth locations for endangered medicinal herbs. 
 
-Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
+This work received recognition, earning me an invitation to present at the prestigious **IC2E3-2023** international conference hosted by the National Institute of Technology, Uttarakhand, India. 
 
-## 📜 Reimplementing and Reproducing Papers
-I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
-
-To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.
-
-Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
+Building on this initiative, I led a long-term research project that resulted in a publication in **Scientific Reports** of the **Nature Portfolio**.
 
 ## 👨🏻‍🔬 Professional Experience
-Currently I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
-Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
-There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
+In my role as an **App Development Intern** at a respected multispecialty hospital in South India, I undertook a pivotal capstone project. This project centered on crafting a **cross-platform mobile application** tailored for the remote monitoring of ICU patients. Through this experience, I honed my skills in app development while contributing to impactful healthcare technology solutions.
 
-## 📚 Teaching and Community Contributions
-To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
+## 📚 Technical Workshops
+As a co-founder of the Competitive Programming Club and a core member of the Ethical Hacking Club at my institute, I played a key role in organizing and hosting technical workshops. Through these responsibilities, I facilitated collaborative learning environments and fostered a sense of community among fellow students and juniors interested in coding and cybersecurity.
 
 
 
