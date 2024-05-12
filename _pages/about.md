@@ -17,7 +17,7 @@ redirect_from:
 
 📚 My interests include deep learning, computer vision, automation, robotics and geospatial data analysis.
 
-💻 I'm currently working on projects [xGrip 🦾](https://github.com/surtecha/xGrip) and [CartoSage 🌏](https://github.com/surtecha/CartoSage)
+💻 I'm currently working on projects [xGrip](https://github.com/surtecha/xGrip) and [AstroGlyph](https://github.com/surtecha/AstroGlyph)
 
 # Selected Experience
 
