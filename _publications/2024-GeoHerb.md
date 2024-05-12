@@ -2,7 +2,7 @@
 title: "Mapping of soil suitability for medicinal plants using machine learning methods"
 collection: publications
 permalink: /publication/2024-GeoHerb
-excrept: 'This study underscores the urgency of conserving medicinal plants by leveraging machine learning and GIS to identify suitable regions swiftly. Achieving remarkable accuracy rates of 99.01% for soil classification and 98.76% for subregion classification, this approach offers a rapid tool for stakeholders to make informed conservation decisions based on regional suitability, visualized through interactive maps.'
+# excrept: 'This study underscores the urgency of conserving medicinal plants by leveraging machine learning and GIS to identify suitable regions swiftly. Achieving remarkable accuracy rates of 99.01% for soil classification and 98.76% for subregion classification, this approach offers a rapid tool for stakeholders to make informed conservation decisions based on regional suitability, visualized through interactive maps.'
 date: 2024-02-14
 venue: 'Scientific Reports, Nature Portfolio'
 
