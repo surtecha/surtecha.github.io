@@ -8,7 +8,7 @@ author_profile: true
 ## Mapping of soil suitability for medicinal plants using machine learning methods 
 *Scientific Reports, 14 Feb 2024*
 
-The study aims to revive **150** vulnerable medicinal herbs by leveraging machine learning (**ML**) and geographic information systems (**GIS**). Integrating **United Nations’** FAO soil datasets with geospatial data, the study employed a decision tree-based model to accurately delineate **28** subregions, achieving **remarkable accuracy** rates of **99.01%** for soil classification and **98.76%** for subregion classification.
+The study aims to revive **150** vulnerable medicinal herbs by leveraging machine learning (ML) and geographic information systems (GIS). Integrating **United Nations’** FAO soil datasets with geospatial data, the study employed a **decision tree** based model to accurately delineate **28** subregions, achieving remarkable accuracy rates of **99.01%** for soil classification and **98.76%** for subregion classification.
 
 📄 [Read paper here](https://www.nature.com/articles/s41598-024-54465-3#citeas) | 🔗 [Download paper here](https://www.nature.com/articles/s41598-024-54465-3.pdf)
 
