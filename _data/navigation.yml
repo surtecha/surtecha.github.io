@@ -14,8 +14,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "Workshops and Seminars"
-    url: /talks/    
+  # - title: "Workshops and Seminars"
+  #   url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
