@@ -15,6 +15,11 @@ SignLangNET is a project aimed at interpreting sign language gestures using deep
 ## [ClusterCraft](https://github.com/surtecha/ClusterCraft)
 
 ![ClusterCraft](/images/ClusterCraft.png){: .align-left width="100px"}
-Developed a custom k-Means image clustering algorithm deployed on a Flask web app, fostering open-source engagement and skill enhancement for contributors during Hacktoberfest.
+An intuitive Flask web app employing a custom k-Means algorithm for image clustering, deployed on a flask app. The project attracted **3 contributors** during [Hacktoberfest](https://hacktoberfest.com/) event, fostering open-source engagement and skill enhancement for new contributors.
 
 ---
+
+## AstroGlyph
+
+![AstroGlyph](/images/AstroGlyph.png){: .align-left width="100px"}
+ Employing a Convolutional Neural Network (CNN) to classify galaxies based on shape and other visual traits, with deployment underway on a Gradio website.
