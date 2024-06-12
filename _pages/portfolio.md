@@ -17,7 +17,7 @@ SignLangNET is a project aimed at interpreting sign language gestures using deep
 An intuitive Flask web app employing a custom k-Means algorithm for image clustering, deployed on a flask app. The project attracted **3 contributors** during [Hacktoberfest](https://hacktoberfest.com/) event, fostering open-source engagement and skill enhancement for new contributors.
 
 
-## AstroGlyph
+## [Multi-Physics Simulation Engine](https://github.com/surtecha/multi-physics-simulation-engine)
 
-![AstroGlyph](/images/AstroGlyph.png){: .align-left width="100px"}
- Employing a Convolutional Neural Network (CNN) to classify galaxies based on shape and other visual traits, with deployment underway on a Gradio website.
+![MPSE](/images/MPSE.png){: .align-left width="100px"}
+A simple physics simulation engine written compelely in python, to simulate fluids, molecular dynamics and gravitation.
