@@ -17,7 +17,7 @@ redirect_from:
 
 📚 My interests include deep learning, computer vision, automation, robotics and geospatial data analysis.
 
-💻 I'm currently working on projects [xGrip](https://github.com/surtecha/xGrip) and [AstroGlyph](https://github.com/surtecha/AstroGlyph)
+💻 I'm currently working on [Multi-Physics Simulation Engine](https://github.com/surtecha/multi-physics-simulation-engine) and [Project IOTA](https://github.com/surtecha/project-iota)
 
 # Selected Experience
 
