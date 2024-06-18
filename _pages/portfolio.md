@@ -20,4 +20,4 @@ An intuitive Flask web app employing a custom k-Means algorithm for image cluste
 ## [Multi-Physics Simulation Engine](https://github.com/surtecha/multi-physics-simulation-engine)
 
 ![MPSE](/images/MPSE.png){: .align-left width="100px"}
-A simple physics simulation engine written compelely in python, to simulate fluids, molecular dynamics and gravitation.
+A physics simulation engine written completely in python, to simulate fluids, molecular dynamics, gravitation, and other physical phenomena.
