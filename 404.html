@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>404 — Suryateja Challa</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@700&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    .not-found {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      gap: 1.5rem;
+      padding: 2rem;
+    }
+    .not-found-number {
+      font-size: clamp(6rem, 20vw, 14rem);
+      font-weight: 700;
+      letter-spacing: -0.04em;
+      line-height: 1;
+      color: var(--text);
+      opacity: 0.08;
+      user-select: none;
+    }
+    .not-found-msg {
+      font-size: 1.1rem;
+      color: var(--text-muted);
+      margin-top: -1rem;
+    }
+    .not-found-link {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.5rem 1.1rem;
+      transition: color 0.2s ease, border-color 0.2s ease;
+    }
+    .not-found-link:hover {
+      color: var(--text);
+      border-color: var(--text-muted);
+    }
+  </style>
+</head>
+<body>
+  <div class="not-found">
+    <p class="not-found-number">404</p>
+    <p class="not-found-msg">This page doesn't exist.</p>
+    <a href="/" class="not-found-link">← go home</a>
+  </div>
+  <script>
+    const stored = localStorage.getItem('theme') || 'dark';
+    document.documentElement.setAttribute('data-theme', stored);
+  </script>
+</body>
+</html>
