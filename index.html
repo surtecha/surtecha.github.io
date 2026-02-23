@@ -131,15 +131,14 @@
           <div class="timeline-card">
             <div class="timeline-header">
               <div>
-                <h3>Contract Engineer</h3>
+                <h3>Contract Software Engineer</h3>
                 <p class="org">Indian Space Research Organization (ISRO) · Bengaluru, India</p>
               </div>
             </div>
             <ul class="bullet-list">
               <li>Designed an <strong>RNN based model</strong> for determining the re-entry profile of decaying satellites, achieving results consistently <strong>within 5 minutes</strong> of standard ISRO in-house methods</li>
-              <li>The model was validated in two <strong>Inter-Agency Space Debris Coordination Committee (IADC)</strong> campaigns, comparing directly against established in-house methods</li>
-              <li>Developed a <strong>software tool for orbital data analysis</strong> that fetches satellite data from public domains, plots ground traces, propagates orbits, and exports to CSV for downstream time series work</li>
-              <li>Built a <strong>high availability PostgreSQL cluster</strong> for storing and managing mission critical logs and operational data</li>
+              <li>Validated model performance during two <strong>Inter-Agency Space Debris Coordination Committee (IADC)</strong> campaigns, achieving results within a <strong>4.76% difference</strong> compared to established internal predictions</li>
+              <li>Configured a <strong>high-availability PostgreSQL cluster</strong> ensuring <strong>99.9% uptime</strong> for the storage and management of mission-critical logs and operational data</li>
               <li>Supported ongoing re-entry analysis operations and contributed to <strong>deep space operation support</strong> activities</li>
             </ul>
           </div>
@@ -185,7 +184,11 @@
           </div>
           <h3>ORBITT</h3>
           <p class="project-full-name mono">Orbital Retrieval &amp; Behaviour Inspection Tool for TLEs</p>
-          <p>A graphical tool for fetching real time satellite data from public domain sources, plotting orbital information, computing ground traces, propagating orbits and exporting data in formats like CSV for downstream time series work. A specialised variant with additional algorithm implementations is in active use at ISRO for rapid orbital health checks.</p>
+          <ul class="bullet-list">
+            <li>Designed a graphical tool for <strong>real-time satellite data retrieval</strong> and ground trace plotting using <strong>SGP4 propagation algorithms</strong></li>
+            <li>Engineered a <strong>concurrent processing engine</strong> that automated a multi-step manual pipeline, reducing the data retrieval and propagation time for multiple satellites from <strong>~20 minutes</strong> to <strong>&lt;15 seconds</strong></li>
+            <li>Deployed a specialised variant of the software currently in <strong>active use at ISRO</strong> for satellite orbital data inspection</li>
+          </ul>
           <div class="project-tags">
             <span class="tag">Python</span>
             <span class="tag">SGP4</span>
@@ -305,7 +308,7 @@
           </div>
         </div>
         <div class="skill-group reveal">
-          <h4 class="mono">Environment</h4>
+          <h4 class="mono">Others</h4>
           <div class="tag-list">
             <span class="tag">Git</span>
             <span class="tag">Linux</span>
